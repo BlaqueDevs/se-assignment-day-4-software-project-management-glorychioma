@@ -15,6 +15,17 @@ Project managers can ensure deadlines are met by:
 7. **Encouraging Team Productivity** – Foster a collaborative work environment and avoid burnout.  
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Effective cost control ensures that a software project stays within budget while delivering quality results. It prevents financial losses, maximizes resource utilization, enhances stakeholder confidence, and ensures project viability. 
+
+Strategies to Prevent Budget Overruns:
+1. *Accurate Budget Planning* – Define cost estimates based on realistic assumptions and past project data.  
+2. *Scope Management* – Prevent scope creep by clearly defining project requirements and managing changes efficiently.  
+3. *Cost Tracking & Monitoring* – Use project management tools (e.g., Microsoft Project, Jira, or Trello) to track expenses in real time.  
+4. *Risk Assessment & Contingency Planning* – Identify potential financial risks and allocate contingency funds.  
+5. *Efficient Resource Allocation* – Optimize team roles and avoid unnecessary expenses.  
+6. *Regular Financial Reviews* – Conduct periodic budget evaluations to detect and resolve cost deviations early.  
+7. *Vendor & Contract Management* – Negotiate cost-effective contracts with third-party vendors and service providers.  
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
