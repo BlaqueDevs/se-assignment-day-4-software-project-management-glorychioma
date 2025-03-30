@@ -83,6 +83,10 @@ Developing a detailed project schedule ensures that tasks are organized, deadlin
 Gantt charts assist in this process by visually representing the project timeline, task sequences, and dependencies. They provide a clear overview of what needs to be done, when, and by whom. By using Gantt charts, project managers can easily adjust schedules, allocate resources effectively, and ensure that all tasks align with project goals. This visual tool enhances transparency, improves coordination, and helps teams stay on track throughout the project lifecycle.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The core issues that software aims to address depend on the specific industry and user needs. Common problems include inefficiencies, time-consuming manual processes, lack of automation, poor user experience, data security risks, and difficulty in collaboration.  
+
+These issues are significant to the target audience because they impact productivity, cost-effectiveness, and overall user satisfaction. For example, a project management tool might solve issues like missed deadlines and poor team coordination, while a fintech app could address challenges in secure transactions and financial management.  
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 Clearly stating the problem aids more focused solution, eliminating unnecessary extra development which invariably uses more time and budget.
 
