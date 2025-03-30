@@ -62,6 +62,21 @@ Importance of Maintaining High Standards
 Ensuring high-quality software prevents bugs, reduces rework costs, and enhances user satisfaction. Poor quality can lead to system failures, security breaches, and a damaged reputation. High standards also improve maintainability, scalability, and compliance with industry regulations, ensuring long-term success.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining project scope makes the project focused, organised and easy to carryout completely.
+Work breakdown structure:
+1. Planning
+2. Design
+3. Developpment
+4. Testing
+5. Deployment
+6. Maintenence
+   
+Why it is useful
+Improves Task Organization – Helps teams understand their roles and responsibilities.
+Enhances Project Scheduling – Allows for better time estimation and milestone setting.
+Facilitates Cost Management – Helps in budgeting by associating costs with each task.
+Reduces Project Risks – Identifies potential challenges early.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
