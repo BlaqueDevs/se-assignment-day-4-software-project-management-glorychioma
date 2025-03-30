@@ -80,6 +80,8 @@ Reduces Project Risks – Identifies potential challenges early.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly stating the problem aids more focused solution, eliminating unnecessary extra development which invariably uses more time and budget.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 By using storytelling technique. Describing the software in form of a story using funffacts, simple terms keeping it clear and concise, plus exciting also. 
 
