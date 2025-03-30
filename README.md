@@ -78,6 +78,10 @@ Facilitates Cost Management – Helps in budgeting by associating costs with eac
 Reduces Project Risks – Identifies potential challenges early.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Developing a detailed project schedule ensures that tasks are organized, deadlines are met, and resources are allocated efficiently. It helps teams track progress, manage dependencies, identify potential bottlenecks, and improve overall productivity. A well-structured schedule also enhances communication among stakeholders and reduces the risk of project delays.  
+
+Gantt charts assist in this process by visually representing the project timeline, task sequences, and dependencies. They provide a clear overview of what needs to be done, when, and by whom. By using Gantt charts, project managers can easily adjust schedules, allocate resources effectively, and ensure that all tasks align with project goals. This visual tool enhances transparency, improves coordination, and helps teams stay on track throughout the project lifecycle.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 Clearly stating the problem aids more focused solution, eliminating unnecessary extra development which invariably uses more time and budget.
