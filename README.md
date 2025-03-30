@@ -48,6 +48,19 @@ On the other hand, Waterfall is better suited for projects with well-defined req
 - Banking & Finance Software – Developing a financial transaction system where security and regulatory requirements must be met from the start.  
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+### **Methods for Ensuring Quality Assurance in a Software Project**  
+
+1. Automated & Manual Testing – Use automated testing for efficiency and manual testing for in-depth analysis.  
+2. Continuous Integration & Deployment (CI/CD) – Regularly merge code and deploy updates to detect issues early.  
+3. Code Reviews & Peer Reviews – Ensure code quality through collaborative evaluation before merging changes.  
+4. Test-Driven Development (TDD) – Write tests before writing the actual code to ensure functionality meets requirements.  
+5. Bug Tracking & Issue Management – Use tools like Jira or Bugzilla to document and resolve defects efficiently.  
+6. User Acceptance Testing (UAT) – Validate the software with real users to ensure it meets business needs.  
+7. Performance & Security Testing – Assess system speed, stability, and vulnerability to threats.  
+
+Importance of Maintaining High Standards  
+Ensuring high-quality software prevents bugs, reduces rework costs, and enhances user satisfaction. Poor quality can lead to system failures, security breaches, and a damaged reputation. High standards also improve maintainability, scalability, and compliance with industry regulations, ensuring long-term success.
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
