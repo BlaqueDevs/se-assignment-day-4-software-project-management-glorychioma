@@ -81,6 +81,8 @@ Reduces Project Risks – Identifies potential challenges early.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+By using storytelling technique. Describing the software in form of a story using funffacts, simple terms keeping it clear and concise, plus exciting also. 
+
 ## 11. What are the main features or functionalities that make your software stand out?
 The main features or functionalities that make software stand out depend on its purpose, industry, and target users. Key differentiators often include user-friendly design, automation capabilities, integration with other tools, scalability, and security.  
 
